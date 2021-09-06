@@ -1,0 +1,237 @@
+{
+    "steps": {
+        "1": {
+            "unknown": 0,
+            "known": 1,
+            "menu": 2,
+            "cardapio": 3
+        }
+    },
+    "menu": {
+        "1": {
+            "name": "Boi",
+            "plates": {
+                "Panqueca de Carne": {
+                    "qtd": 200,
+                    "value": 14,
+                    "description": "Massa caseira de panqueca, recheio de carne moída com molho artesanal de tomate e coberto com muçarela."
+                },
+                "Quibe assado": {
+                    "qtd": 200,
+                    "value": 14,
+                    "description": "Quibe assado, recheado de carne moída e molho de queijo Canastra, bem temperado e aromático."
+                },
+                "Almôndegas ao Pomodoro": {
+                    "qtd": 180,
+                    "value": 16,
+                    "description": "Tradicionais almôndegas de carne moída com molho artesanal de tomate, parmesão e molho pesto."
+                },
+                "Filé Mignon ao molho Madeira": {
+                    "qtd": 180,
+                    "value": 20,
+                    "description": "Saborosas iscas de filé mignon ao molho de vinho tinto."
+                },
+                "Filé Mignon ao molho Gorgonzola": {
+                    "qtd": 180,
+                    "value": 20,
+                    "description": "Iscas de filé mignon com o famoso molho de queijo Gorgonzola."
+                }
+            }
+        },
+        "2": {
+            "name": "Frango",
+            "plates": {
+                "Fricassê": {
+                    "qtd": 200,
+                    "value": 12,
+                    "description": "Massa caseira de panqueca, recheio de frango desfiado com molho artesanal de tomate e coberto com muçarela."
+                },
+                "Sobrecoxa Assada ao Vinho branco": {
+                    "qtd": 150,
+                    "value": 12,
+                    "description": "Sobrecoxa de frango temperada com vinho branco e assada até dourar!"
+                },
+                "Frango a la Crema": {
+                    "qtd": 250,
+                    "value": 14,
+                    "description": "Iscas de Frango com um molho cremoso de queijo Canastra."
+                },
+                "Frango com Baroa": {
+                    "qtd": 270,
+                    "value": 12,
+                    "description": "Coxa de frango e batata baroa, bem cozidos e com tempero de vó."
+                },
+                "Frango à Parmegiana": {
+                    "qtd": 220,
+                    "value": 12,
+                    "description": "Filé de peito de frango empanado, purê de batatas, muçarela e molho artesanal de tomate. Sem erro, clássico e gostoso. "
+                },
+                "Panqueca de Frango": {
+                    "qtd": 200,
+                    "value": 12,
+                    "description": "Massa caseira de panqueca, recheio de frango desfiado com molho artesanal de tomate e coberto com muçarela."
+                }
+            }
+        },
+        "3": {
+            "name": "Porco",
+            "plates": {
+                "Feijoada": {
+                    "qtd": 300,
+                    "value": 14,
+                    "description": "Aquela feijoada de respeito que dispensa descrições"
+                },
+                "Arroz com costelinha": {
+                    "qtd": 250,
+                    "value": 14,
+                    "description": "Arroz temperado feito junto com costelinha suína frita, bem suculento."
+                },
+                "Costela ao Barbecue": {
+                    "qtd": 240,
+                    "value": 20,
+                    "description": "Tira de costela suína feita a moda antiga, preparada por 12h em baixíssima temperatura até soltar do osso, besuntada em barbecue caseiro."
+                }
+            }
+        },
+        "4": {
+            "name": "Peixe",
+            "plates": {
+                "Moqueca de Peixe": {
+                    "qtd": 250,
+                    "value": 22,
+                    "description": "Nem moqueca baiana, nem peixada capixaba. É uma boa moqueca mineira, peixe, legumes e leite de coco!"
+                },
+                "Salmão com crosta de gergelim": {
+                    "qtd": 150,
+                    "value": 30,
+                    "description": "Lombo de Salmão grelhado com crosta de gergelim e alho-poró assado."
+                },
+                "Peixe na manteiga": {
+                    "qtd": 180,
+                    "value": 24,
+                    "description": "Abrasileirando um clássico francês, Filé de peixe dourado na manteiga com legumes e ervas."
+                }
+            }
+        },
+        "5": {
+            "name": "Massas",
+            "plates": {
+                "Gnocchi a la Crema": {
+                    "qtd": 250,
+                    "value": 12,
+                    "description": "Levíssimo gnocchi de batatas com molho de queijo Canastra e parmesão."
+                },
+                "Raviolli artesanal ao Pomodoro": {
+                    "qtd": 220,
+                    "value": 14,
+                    "description": "Delicados raviolis recheados com ricota e manjericão com molho artesanal de tomate, molho pesto e parmesão."
+                },
+                "Lasagna artesanal de Frango": {
+                    "qtd": 360,
+                    "value": 14,
+                    "description": "Lasagna de frango com molho branco e muçarela, 100% artesanal!"
+                },
+                "Fettucine ao Pesto": {
+                    "qtd": 180,
+                    "value": 9,
+                    "description": "Fettuccine (massa) artesanal com molho pesto de manjericão."
+                }
+            }
+        },
+        "6": {
+            "name": "Caldos",
+            "plates": {
+                "Creme de Abóbora moranga com Gorgonzola": {
+                    "qtd": 250,
+                    "value": 12,
+                    "description": "Creme de Abóbora com queijo Gorgonzola e alho-poró. Combinação perfeita!"
+                },
+                "Caldo verde de Ervilha": {
+                    "qtd": 250,
+                    "value": 10,
+                    "description": "Caldo verde detox e super nutritivo. Feito com ervilha, inhame, rúcula, espinafre e alho-poró."
+                }
+            }
+        },
+        "7": {
+            "name": "Acompanhamentos",
+            "plates": {
+                "Arroz Branco": {
+                    "qtd": 180,
+                    "value": 4,
+                    "description": "Arroz Branquinho, feito com louro e alho."
+                },
+                "Arroz Assanhado": {
+                    "qtd": 150,
+                    "value": 6,
+                    "description": "Arroz temperado com bacon, ovos, milho, e ervilha."
+                },
+                "Feijão Caseiro": {
+                    "qtd": 125,
+                    "value": 4,
+                    "description": "Feijão carioquinha, cozido na pele de bacon e com bastante alho."
+                },
+                "Legumes ao Vapor": {
+                    "qtd": 125,
+                    "value": 6,
+                    "description": "Cenoura, vagem, brócolis e couve-flor. Cozidos no vapor de ervas frescas e refogados com manteiga e alho-poró."
+                },
+                "Caponata de Berinjela": {
+                    "qtd": 125,
+                    "value": 5,
+                    "description": "Clássico italiano, antepasto de beringela com pimentões ao forno."
+                },
+                "Farofa de cebola": {
+                    "qtd": 125,
+                    "value": 5,
+                    "description": "Farofinha de cebola crocante, surpreendente!"
+                },
+                "Purê de batatas": {
+                    "qtd": 125,
+                    "value": 6,
+                    "description": "Um cremoso purê de batatas feito com manteiga e leite."
+                }
+            }
+        }
+    },
+    "keyboard": {
+        "1": {
+            "name": "pgt_sim_nao",
+            "body": [
+                "Sim",
+                "Não"
+            ],
+            "header": [],
+            "footer": [],
+            "resize": true,
+            "once": true
+        },
+        "2": {
+            "name": "menu_principal",
+            "body": [
+                [
+                    "Cardápio 🍽"
+                ],
+                [
+                    "Minha Sacola 👜"
+                ],
+                [
+                    "Meus Pedidos 📝",
+                    "Promoções e Descontos 💰"
+                ],
+                [
+                    "Modos de Preparo 🍲",
+                    "Entrega Solidária 🛵"
+                ],
+                [
+                    "Fale conosco 📞",
+                    "SoulChef 🧑\u200d🍳"
+                ]
+            ],
+            "header": [],
+            "footer": [],
+            "resize": true,
+            "once": true
+        }
+    }
+}
